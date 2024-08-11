@@ -23,6 +23,10 @@ Coniderações Finais:
 * Executar com pelo menos 3 cenários diferentes, ou seja, 3 textos
 * Você deve criar estes textos /frases de input
 
-O projeto finalizado (arquivo .py e arquivo com as frases em texto claro) está [nesta pasta](Scripts)
+O projeto finalizado (arquivo .py e arquivo com as frases em texto claro) está [nesta pasta](Scripts) sendo:
 
-As frases que foram utilizadas como teste estão [nesta pasta](Docs) no arquivo de nome "Mensagens em morse.txt"q
+* projeto_1_final.py = Script utilizando a estrutura de funções;
+* projeto_1_v2.py = Script utilizando uma classe para o decodificador;
+* frases_decod.csv = Arquivo com as frases traduzidas;
+
+As frases que foram utilizadas como teste estão [nesta pasta](Docs) no arquivo de nome "Mensagens_morse.txt"

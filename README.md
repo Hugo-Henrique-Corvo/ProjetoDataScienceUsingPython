@@ -51,4 +51,4 @@ A base a ser explorada contém a seguinte estrutura:
 * air_time: Quantidade de tempo gasto no ar
 * distância: Distância voada
 
-O projeto de desenvolvimento pode ser encontrado [nesta pasta](Docs) , no arquivo de nome "projeto_2.ipynb"
+O projeto de desenvolvimento pode ser encontrado [nesta pasta](Scripts) , no arquivo de nome "projeto_2.ipynb"
